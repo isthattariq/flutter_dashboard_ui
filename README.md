@@ -1,10 +1,16 @@
 # dashboard_task
 
-A new Flutter project.
+This is a Dashboard UI design in flutter for practice and play around with widgets
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Note: I use Screen util package for responsiveness
+
+
+
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
